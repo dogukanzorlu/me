@@ -1,0 +1,4 @@
+[[main]]
+name = "Yazılar"
+url = "/posts/"
+weight = 10

@@ -1,0 +1,15 @@
+/public
+/resources
+.DS_Store
+*.log
+.hugo_build.lock
+
+node_modules
+package-lock.json
+package.json
+yarn.lock
+bun.lockb
+bun.lock
+bun.lockb.json
+bun.lockb.json.json
+bun.lockb.json.json.json

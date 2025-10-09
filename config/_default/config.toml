@@ -1,0 +1,20 @@
+baseURL = "https://dzorlu.me"   # domain geldiğinde güncelle
+theme = "blowfish"
+title = "Doğukan Zorlu"
+enableRobotsTXT = true
+
+# Tek dil Türkçe
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = false
+
+[outputs]
+  home = ["HTML","RSS","JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[minify]
+  disableXML = false
+  minifyOutput = true
