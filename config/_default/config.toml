@@ -1,4 +1,4 @@
-baseURL = "https://dzorlu.me"   # domain geldiğinde güncelle
+baseURL = "https://zorlu.me"   # domain geldiğinde güncelle
 theme = "blowfish"
 title = "Doğukan Zorlu"
 enableRobotsTXT = true
