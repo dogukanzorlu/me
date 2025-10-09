@@ -8,4 +8,4 @@ tags: ["me"]
 
 ### Software Engineer
 
-Merhaba! Ben Doğukan Zorlu. Yazılım Mühendisiyim ve kimi zaman bilgisayar bilimleri kimi zamanda ilgili olduğum konular hakkında yazılar paylaşıyorum
+Merhaba! Ben Doğukan Zorlu. Yazılım Mühendisiyim ve kimi zaman bilgisayar bilimleri kimi zaman da ilgili olduğum konular hakkında yazılar paylaşıyorum
