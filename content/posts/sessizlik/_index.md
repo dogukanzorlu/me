@@ -1,7 +1,7 @@
 ---
 title: "Sessizlik, Hakikat ve İnanç"
 weight: 4
-draft: false
+draft: true
 description: "Sessizlik, Hakikat ve İnanç"
 slug: "sessizlik-hakikat-ve-inanç"
 tags: ["philosophy"]
